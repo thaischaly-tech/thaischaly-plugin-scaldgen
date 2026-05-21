@@ -1,0 +1,23 @@
+{
+  "name": "gestao-juridica-scaldgen",
+  "owner": {
+    "name": "Scaldgen",
+    "email": "thaischaly@gmail.com"
+  },
+  "description": "Plugin de gestao estrategica para escritorios de advocacia. 30 skills.",
+  "plugins": [
+    {
+      "name": "gestao-juridica-scaldgen",
+      "source": ".",
+      "description": "30 skills para gestao completa de escritorios de advocacia - Scaldgen",
+      "version": "0.3.0",
+      "author": {
+        "name": "Scaldgen"
+      },
+      "keywords": [
+        "advocacia", "gestao", "escritorio", "juridico",
+        "scaldgen", "prazos", "intimacoes", "controladoria"
+      ]
+    }
+  ]
+}
