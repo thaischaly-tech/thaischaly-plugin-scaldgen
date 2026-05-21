@@ -1,6 +1,9 @@
 Plugin Scaldgen — Gestão Jurídica
+
 Sistema completo de gestão estratégica para escritórios de advocacia. Versão 0.3.0 — 30 skills.
-Como instalar
+
+Como instalar:
+
 No Claude (modo Cowork), execute os três comandos abaixo em ordem:
 
 /plugin marketplace add thaischaly-tech/thaischaly-plugin-scaldgen
